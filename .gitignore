@@ -72,7 +72,9 @@ crashlytics-build.properties
 /[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
 
 # Удаляем демо-материалы TextMesh Pro
-Assets/TextMesh Pro/Examples & Extras/
+/Assets/TextMesh Pro/Examples & Extras/
+
+/Assets/WTF/
 
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
